@@ -1,0 +1,21 @@
+
+#####       fFFCFFfrrfWWCWWf       #####
+#   #     y fFFFFFfrLfWWWWWf       #   #
+# C G     y fFFFFFfrrfWWWWWf       G C #
+#   #   #####fffff####fffff#####   # g #
+##B###Y##       ##llla##       ##Y###B##
+  u # b #       #      #       #   # d  
+  u # C #      #  C  C  #    e # C # d  
+  u #   #      #        #      #   # d  
+  u ##Y###G##  #  ####  #  ##G###Y###d  
+  u  #  #   #   #      #   #   #  #  d  
+  u  #  # C #    ##  ##    # C #  #  d  
+  u  #  #   #      ff      #   #  #  d  
+  u  #  ##G###B## #  ####B###G##  #  d  
+  u  #      # g # #  # # g #      #     
+  u  #     eB C # #  # # C #      #     
+  u  #      #   f      f   #      #  e   
+##Y######   ################   ####     
+       y#     #    yy    #     #        
+       g#    eB  C bb C  #     #   C  EE
+S      b#     #  b gg b  #     #      EE
